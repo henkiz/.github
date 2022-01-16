@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://henkiz.com">
-    <img src="https://raw.githubusercontent.com/henkiz/.github/main/assets/icon.svg" width="80" />
+    <img src="https://assets.henkiz.com/images/logomark/circle-light.svg" height="112" alt="Henkiz Logomark">
   </a>
   <h2 align="center">Henkiz</h2>
 </p>
