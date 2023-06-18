@@ -1,20 +1,11 @@
-<!-- markdownlint-disable MD033 MD041 -->
-
+<!-- trunk-ignore(markdownlint/MD041) -->
 <div align="center">
-  <a href="https://henkiz.com">
-    <img src="https://assets.henkiz.com/images/logomark/circle-light.svg" height="112" alt="Henkiz Logomark">
-  </a>
-  <h2>Henkiz on GitHub</h2>
+  <img src="/assets/images/gh-profile.png#gh-light-mode-only">
+  <img src="/assets/images/gh-profile-dark.png#gh-dark-mode-only">
 </div>
 
-<p align="center">Organization-wide health files ❤️</p>
+---
 
-<div align="center">
-  <a href="https://figma.com/@henkiz">Figma</a>
-  •
-  <a href="https://henkiz.slack.com">Slack</a>
-  •
-  <a href="https://henkiz.com">Website</a>
-  •
-  <a href="https://github.com/henkiz/feedback/"><strong>Feedback</strong></a>
-</div>
+# .github
+
+Organization-wide metarepository.
